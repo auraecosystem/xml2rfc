@@ -1,0 +1,10 @@
+Saxon has moved
+
+Sourceforge was the home for open-source versions of the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1, processor
+from 1999 until 2022. From version 12.0 in January 2023, Saxon has moved. 
+
+The latest Saxon-HE releases are now available from https://github.com/Saxonica/Saxon-HE
+
+For further information please visit the Saxonica website at https://www.saxonica.com
+
+Older versions are archived on SourceForge, but are no longer maintained.
